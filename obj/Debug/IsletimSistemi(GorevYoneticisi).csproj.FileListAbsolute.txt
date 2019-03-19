@@ -1,0 +1,53 @@
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.MANTIKSALbilgi.resources
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.Form1.resources
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.Form2.resources
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.Properties.Resources.resources
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.YeniGorev.resources
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).csproj.GenerateResource.Cache
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe.config
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).pdb
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.Design.dll
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.DataGridView.dll
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.pdb
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.xml
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.Design.pdb
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.DataGridView.xml
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Utilities.pdb
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).csprojResolveAssemblyReference.cache
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).exe
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).pdb
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.SistemBilgileri.resources
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe.manifest
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).application
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).exe.manifest
+C:\Users\birol\Documents\Visual Studio 2013\Projects\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).application
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).csprojResolveAssemblyReference.cache
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.MANTIKSALbilgi.resources
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.Form1.resources
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.Form2.resources
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.Properties.Resources.resources
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.SistemBilgileri.resources
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi_GorevYoneticisi_.YeniGorev.resources
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).csproj.GenerateResource.Cache
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).exe
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).pdb
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe.config
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe.manifest
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).application
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).pdb
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.pdb
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.xml
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Controls.Design.pdb
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.DataGridView.xml
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Utilities.pdb
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).exe.manifest
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).application
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)XX\IsletimSistemi(GorevYoneticisi)\bin\Debug\IsletimSistemi(GorevYoneticisi).exe.config
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)XX\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).exe
+C:\Users\Glbyz\Desktop\IsletimSistemi(GorevYoneticisi)XX\IsletimSistemi(GorevYoneticisi)\obj\Debug\IsletimSistemi(GorevYoneticisi).pdb
